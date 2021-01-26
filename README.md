@@ -1,1 +1,1 @@
-# gdq interface
+# ybcard interface
